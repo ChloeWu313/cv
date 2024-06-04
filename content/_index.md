@@ -24,7 +24,7 @@ sections:
         color: white
         image:
           # Add your image background to `assets/media/`.
-          filename: ocean.jpg
+          filename: ocean.png
           filters:
             brightness: 1.0
           size: cover

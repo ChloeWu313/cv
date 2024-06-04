@@ -53,3 +53,8 @@ h2 {font-size:100px;}
 .prose{
 	max-width: 80ch;
 }
+
+.home-section-bg  .bg-image{
+  background-image: url('./media/ocean.jpg');
+  /* background-repeat:no-repeat; */
+}
