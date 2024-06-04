@@ -31,18 +31,14 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'chloe_wu313@whu.edu.cn'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/shiyuwu
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/ChloeWu313
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://www.linkedin.com
   - icon: academicons/orcid
     url: https://orcid.org/
 
@@ -52,7 +48,7 @@ interests:
   - Remote Sensing
 
 education:
-  - area: MEng Photogrammetry and Remote Sensing
+  - area: MEng — Photogrammetry and Remote Sensing
     institution: Wuhan University
     date_start: 2022-09-01
     date_end: 2025-06-20
@@ -62,10 +58,10 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com'
 
-  - area: BSc Geographic Information Science
+  - area: BSc — Geographic Information Science
     institution: Wuhan University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2018-09-01
+    date_end: 2022-06-20
     summary: |
       GPA: 3.4/4.0
       
@@ -171,7 +167,8 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## **About Me**
+## **About Me 🙋🏻**
 
-Shiyu Wu received the B.S. degree in geographical information system (digital cartography and spatial information engineering) from Wuhan University, Wuhan, China, in 2022. She is currently pursuing the M.S. degree with the Chinese Antarctic Center of Surveying and Mapping, Wuhan University, Wuhan, China.
+I received the B.S. degree in Geographical Information System (digital cartography 🗺️ and spatial information engineering 🌎) from Wuhan University, Wuhan, China, in 2022. I am currently pursuing the M.S. degree in Potogrammetry and Remote Sensing 🛰️ (especially focusing on sea ice remote sensing) with the Chinese Antarctic Center of Surveying and Mapping ❄️, Wuhan University.
 
+I love singing 🎤, movies 🎦, and coffee ☕ (pour-over). Recently, I'm interested in planting 🌱 and collecting crystals 🔮.
