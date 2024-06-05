@@ -56,17 +56,15 @@ h2 {font-size:100px;}
 }
 
 
-.home-section-bg{
-	height: 700px;
-}
+
 
 .prose{
 	max-width: 80ch;
 }
 
-.home-section-bg  .bg-image{
+.home-section-bg{
   background-image: url('./media/ocean.jpg');
-  /* background-repeat:no-repeat; */
+  background-color: rgb(245,242,233);
 }
 
 .flex-auto.max-w-prose{
@@ -83,3 +81,28 @@ h2 {font-size:100px;}
 	margin-top: -4em;
 }
 
+
+
+.page-body #section-markdown{
+	background-color: rgb(245,242,233);
+}
+
+.page-body #papers{
+	background-color: rgb(245,242,233);
+}
+
+.page-body #section-collection{
+	background-color: rgb(245,242,233);
+}
+
+.page-body #talks{
+	background-color: rgb(245,242,233);
+}
+
+.page-body #news{
+	background-color: rgb(245,242,233);
+}
+
+.page-footer{
+	background-color: rgb(245,242,233);
+}
