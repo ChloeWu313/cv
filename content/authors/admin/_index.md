@@ -169,6 +169,6 @@ awards:
 
 ## **About Me 🙋🏻**
 
-I received the B.S. degree in Geographical Information System (digital cartography 🗺️ and spatial information engineering 🌎) from Wuhan University, Wuhan, China, in 2022. I am currently pursuing the M.S. degree in Potogrammetry and Remote Sensing 🛰️ (especially focusing on sea ice remote sensing) with the Chinese Antarctic Center of Surveying and Mapping ❄️, Wuhan University.
+I received the B.S. degree in Geographical Information System (digital cartography 🗺️ and spatial information engineering 🌎) from Wuhan University, Wuhan, China, in 2022. I am currently pursuing the M.Eng degree in Photogrammetry and Remote Sensing 🛰️ (especially focusing on sea ice remote sensing) with the Chinese Antarctic Center of Surveying and Mapping ❄️, Wuhan University.
 
 I love singing 🎤, movies 🎦, and coffee ☕ (pour-over). Recently, I'm interested in planting 🌱 and collecting crystals 🔮.
